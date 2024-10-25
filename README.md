@@ -6,8 +6,8 @@
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/prayagpc/DevBytes_Task.git
+   cd DevBytes/
    ```
 
 2. Install dependencies (if any are added in the future):
